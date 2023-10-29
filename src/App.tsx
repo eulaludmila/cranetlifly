@@ -16,7 +16,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          App test 2
+          Tsjsdc
+        </a>
+        <a className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer">
+          isso
         </a>
       </header>
     </div>
